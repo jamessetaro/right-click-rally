@@ -1,0 +1,11 @@
+{
+  "name": "Search Rally Context Menu",
+  "description": "Add a right click to search rally for defect, story or string, by James Setaro",
+  "version": "0.1",
+  "permissions": ["contextMenus"],
+  "background": {
+    "persistent": false,
+    "scripts": ["rally.js"]
+  },
+  "manifest_version": 2
+}
